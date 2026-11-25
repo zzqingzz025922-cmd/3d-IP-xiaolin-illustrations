@@ -1,6 +1,6 @@
 interface:
-  display_name: "小林 · 3D 黏土配图"
-  short_description: "使用小林 IP 生成白底 3D 黏土配图，角色与色彩匹配用户提供的参考图"
-  default_prompt: "Use $clay-character-illustrations 用小林 IP 为这个主题生成一张白底 3D 黏土配图，明度和饱和度参考技能内的小林图片。"
+  display_name: "小林 · 3D 黏土插画素材"
+  short_description: "使用小林默认提包造型生成透明 PNG 黏土插画，支持主题配图、换装与局部编辑"
+  default_prompt: "Use $clay-character-illustrations 生成小林 IP，使用默认提包造型，交付透明底 PNG 插画素材。"
 policy:
   allow_implicit_invocation: true
